@@ -13,6 +13,6 @@ We released the AutoMedSAM model code with data preprocessing code. The training
   journal={arXiv preprint arXiv:2502.06817},
   year={2025}
 }
-
+```
 ## Acknowledgements
 We thank the authors of MedSAM, MobileSAM and TinyViT for making their source code publicly available.
